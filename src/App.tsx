@@ -1,6 +1,7 @@
 import React from "react";
 import Button from "./Button";
 import Input from "./Input";
+import Checkbox from "./Checkbox";
 
 function App() {
   const [total, setTotal] = React.useState(0);
@@ -20,6 +21,7 @@ function App() {
       <Input label="Nome" id="name" />
       <Input label="Início Viagem" id="inicio" type="date"/>
       <Input label="Horário" id="horario" type="time"/>
+      <Checkbox label="Termos e condições" />
     </div>
   );
 }
