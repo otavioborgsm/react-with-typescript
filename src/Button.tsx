@@ -1,9 +1,17 @@
-import React from 'react'
+import React from 'react';
 
-const Button = () => {
+type ButtonProps = {
+  children?: React.ReactNode;
+  onClick?: () => void;
+  tamanho?: string;
+};
+
+const Button = (props: ButtonProps) => {
   return (
-    <button>Button</button>
-  )
-}
+    <button style={{ fontSize: props.tamanho }} onClick={props.onClick}>
+      {props.children}
+    </button>
+  );
+};
 
-export default Button
+export default Button;

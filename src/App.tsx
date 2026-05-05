@@ -1,4 +1,5 @@
 import React from "react";
+import Button from "./Button";
 
 function App() {
   const [total, setTotal] = React.useState(0);
@@ -10,7 +11,7 @@ function App() {
   return (
     <div>
       <p>Total: {total}</p>
-      <button onClick={incrementar}>Incrementar</button>
+      <Button onClick={incrementar} tamanho="1.25rem">Incrementar</Button>
     </div>
   );
 }
