@@ -1,7 +1,7 @@
 import React from "react";
-import Button from "./Button";
-import Input from "./Input";
-import Checkbox from "./Checkbox";
+import Button from "./basic-tsx/Button";
+import Input from "./basic-tsx/Input";
+import Checkbox from "./basic-tsx/Checkbox";
 
 function App() {
   const [total, setTotal] = React.useState(0);
