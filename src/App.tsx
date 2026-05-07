@@ -3,7 +3,7 @@ import Button from "./basic-tsx/Button";
 import Input from "./basic-tsx/Input";
 import Checkbox from "./basic-tsx/Checkbox";
 import UseState from "./hooks-tsx/use-state/UseState";
-import UseStateTest from "./hooks-tsx/use-state/UseStateExercise";
+import UseStateExercise from "./hooks-tsx/use-state/UseStateExercise";
 import UseEffect from "./hooks-tsx/use-effect/UseEffect";
 import UseRef from "./hooks-tsx/use-ref/UseRef";
 
@@ -38,7 +38,7 @@ function App() {
       <Checkbox label="Termos e condições" />
       <h1>Hooks TSX</h1>
       <UseState />
-      <UseStateTest />
+      <UseStateExercise />
       <UseEffect />
       <UseRef />
     </div>
