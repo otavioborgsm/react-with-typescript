@@ -56,13 +56,17 @@ const UseStateTest = () => {
       <h2>Busca de Pedidos (Atividade Use State)</h2>
       <Input id="start" label="Início" type="date" setState={setStart} />
       <Input id="end" label="Final" type="date" setState={setEnd} />
-      <h2>Resultado: </h2>
-      {data !== null &&
-        data.map((it) => (
-          <p>
-            <b>{it.nome}</b>: {it.status}
-          </p>
-        ))}
+      {data !== null && (
+        <>
+          <h2>Resultado:</h2>
+
+          {data.map((it) => (
+            <p key={it.nome}>
+              <b>{it.nome}</b>: {it.status}
+            </p>
+          ))}
+        </>
+      )}
     </>
   );
 };

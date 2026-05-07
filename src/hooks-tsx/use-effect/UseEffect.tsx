@@ -11,7 +11,7 @@ const UseEffect = () => {
 
   return (
     <div>
-      <h1>UseEffect</h1>
+      <h2>UseEffect</h2>
     </div>
   );
 };
