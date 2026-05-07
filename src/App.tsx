@@ -4,6 +4,7 @@ import Input from "./basic-tsx/Input";
 import Checkbox from "./basic-tsx/Checkbox";
 import UseState from "./hooks-tsx/use-state/UseState";
 import UseStateTest from "./hooks-tsx/use-state/UseStateTest";
+import UseEffect from "./hooks-tsx/use-effect/UseEffect";
 
 function App() {
   const [total, setTotal] = React.useState(0);
@@ -37,6 +38,7 @@ function App() {
       <h1>Hooks TSX</h1>
       <UseState />
       <UseStateTest />
+      <UseEffect />
     </div>
   );
 }
