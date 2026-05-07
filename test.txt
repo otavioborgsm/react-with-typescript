@@ -1,0 +1,329 @@
+Mariana: falha
+
+Luiz: pago
+
+Edson: pago
+
+Carolina: processando
+
+Mário: pago
+
+Sonia: falha
+
+Paulo: pago
+
+Edson: pago
+
+Alessandra: pago
+
+Luciana: pago
+
+Isabel: pago
+
+Camila: pago
+
+Edson: pago
+
+Vitor: pago
+
+Rosa: processando
+
+Ronaldo: processando
+
+Sérgio: pago
+
+Edson: pago
+
+Cesar: falha
+
+Vitor: pago
+
+Vitor: pago
+
+Caio: pago
+
+Sérgio: processando
+
+Rosa: falha
+
+Alessandra: pago
+
+Raquel: pago
+
+Patrícia: pago
+
+Vitor: pago
+
+Natália: pago
+
+Simone: falha
+
+Raquel: pago
+
+Lídia: pago
+
+Juliana: pago
+
+Natália: pago
+
+Lara: processando
+
+Rafael: pago
+
+Evandro: pago
+
+Ricardo: pago
+
+Esther: pago
+
+Bruna: pago
+
+Rosa: pago
+
+Joaquim: pago
+
+Antônio: pago
+
+Raimundo: falha
+
+Vitor: pago
+
+Luís: processando
+
+João: pago
+
+Isabel: processando
+
+Carolina: pago
+
+Juliana: processando
+
+Camila: falha
+
+Antônio: processando
+
+Viviane: pago
+
+Guilherme: processando
+
+Vitor: processando
+
+Manoel: pago
+
+Sonia: processando
+
+Lúcia: pago
+
+Vitor: processando
+
+Evandro: pago
+
+Sérgio: pago
+
+Isadora: pago
+
+Sonia: pago
+
+Carolina: pago
+
+Bruna: pago
+
+Rodrigo: pago
+
+Bruna: pago
+
+Carlos: pago
+
+Evandro: pago
+
+Sérgio: pago
+
+Jéssica: pago
+
+Juliana: pago
+
+Esther: pago
+
+Renata: pago
+
+Caio: falha
+
+Rosa: pago
+
+Carolina: falha
+
+Sérgio: processando
+
+Evandro: pago
+
+Elton: pago
+
+Alessandra: pago
+
+Bruna: pago
+
+Eduardo: pago
+
+Sonia: processando
+
+Luciana: pago
+
+Diogo: pago
+
+Raimundo: pago
+
+Lara: pago
+
+Isadora: pago
+
+Raphael: pago
+
+Renata: falha
+
+Diogo: pago
+
+Rosa: pago
+
+João: pago
+
+Raphael: pago
+
+Elton: processando
+
+Diogo: pago
+
+Eduardo: pago
+
+Raphael: pago
+
+Caio: pago
+
+Esther: pago
+
+Rodrigo: processando
+
+Diana: pago
+
+Patrícia: processando
+
+Alessandra: pago
+
+Carolina: pago
+
+Guilherme: falha
+
+Isadora: processando
+
+Edson: pago
+
+Rodrigo: processando
+
+Bruna: pago
+
+Manoel: processando
+
+Carolina: pago
+
+Otávio: pago
+
+Rodrigo: pago
+
+Alessandra: pago
+
+Patrícia: pago
+
+Sonia: falha
+
+Ana: pago
+
+Paulo: pago
+
+Jéssica: pago
+
+Paulo: pago
+
+Luiz: pago
+
+Sérgio: pago
+
+Vitor: processando
+
+Bruna: falha
+
+Carolina: pago
+
+João: pago
+
+Mário: pago
+
+Renata: pago
+
+Patrícia: pago
+
+Regina: pago
+
+Raphael: pago
+
+Viviane: pago
+
+Sonia: pago
+
+Luiz: processando
+
+Caio: pago
+
+Guilherme: pago
+
+Carlos: pago
+
+Carlos: pago
+
+Lídia: pago
+
+Cesar: pago
+
+Guilherme: processando
+
+Pedro: pago
+
+Carolina: pago
+
+Diogo: processando
+
+Renata: pago
+
+Evandro: pago
+
+Diana: processando
+
+Simone: pago
+
+Vitor: pago
+
+João: pago
+
+Luiz: pago
+
+Luiz: processando
+
+Ronaldo: falha
+
+Rodrigo: pago
+
+Ronaldo: pago
+
+Edson: pago
+
+Sonia: processando
+
+Carolina: pago
+
+Manoel: pago
+
+Isabel: pago
+
+Joaquim: pago
+
+Edson: pago
+
+Bruna: pago
