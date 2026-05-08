@@ -6,6 +6,7 @@ import UseState from "./hooks-tsx/use-state/UseState";
 import UseStateExercise from "./hooks-tsx/use-state/UseStateExercise";
 import UseEffect from "./hooks-tsx/use-effect/UseEffect";
 import UseRef from "./hooks-tsx/use-ref/UseRef";
+import UseRefExercise from "./hooks-tsx/use-ref/UseRefExercise";
 
 function App() {
   const [total, setTotal] = React.useState(0);
@@ -41,6 +42,7 @@ function App() {
       <UseStateExercise />
       <UseEffect />
       <UseRef />
+      <UseRefExercise />
     </div>
   );
 }
