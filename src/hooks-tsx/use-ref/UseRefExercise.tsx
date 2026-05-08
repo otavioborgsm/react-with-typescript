@@ -8,7 +8,11 @@ const UseRefExercise = () => {
 
   function handleBtnPlayVideo(): void {
     if (!video.current) return;
-    isPlaying ? video.current.pause() : video.current.play();
+    if (isPlaying) {
+      video.current.pause();
+      return;
+    }
+    video.current.play();
   }
 
   function handleTwoSecondsPlusBtn(): void {

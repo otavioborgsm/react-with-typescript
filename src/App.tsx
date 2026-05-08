@@ -7,6 +7,7 @@ import UseStateExercise from "./hooks-tsx/use-state/UseStateExercise";
 import UseEffect from "./hooks-tsx/use-effect/UseEffect";
 import UseRef from "./hooks-tsx/use-ref/UseRef";
 import UseRefExercise from "./hooks-tsx/use-ref/UseRefExercise";
+import CustomHook from "./hooks-tsx/custom-hook/CustomHook";
 
 function App() {
   const [total, setTotal] = React.useState(0);
@@ -43,6 +44,7 @@ function App() {
       <UseEffect />
       <UseRef />
       <UseRefExercise />
+      <CustomHook />
     </div>
   );
 }
