@@ -10,6 +10,7 @@ import UseRefExercise from "./hooks-tsx/use-ref/UseRefExercise";
 import CustomHook from "./hooks-tsx/custom-hook/CustomHook";
 import CustomHookExercise from "./hooks-tsx/custom-hook/CustomHookExercise";
 import UseContext from "./hooks-tsx/use-context/UseContext";
+import UseContextExercise from "./hooks-tsx/use-context/Exercise/UseContextExercise";
 
 function App() {
   const [total, setTotal] = React.useState(0);
@@ -49,6 +50,7 @@ function App() {
       <CustomHook />
       <CustomHookExercise />
       <UseContext />
+      <UseContextExercise />
     </div>
   );
 }
