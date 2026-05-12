@@ -11,6 +11,7 @@ import CustomHook from "./hooks-tsx/custom-hook/CustomHook";
 import CustomHookExercise from "./hooks-tsx/custom-hook/CustomHookExercise";
 import UseContext from "./hooks-tsx/use-context/UseContext";
 import UseContextExercise from "./hooks-tsx/use-context/Exercise/UseContextExercise";
+import UseReducer from "./hooks-tsx/use-reducer/UseReducer";
 
 function App() {
   const [total, setTotal] = React.useState(0);
@@ -51,6 +52,7 @@ function App() {
       <CustomHookExercise />
       <UseContext />
       <UseContextExercise />
+      <UseReducer />
     </div>
   );
 }
