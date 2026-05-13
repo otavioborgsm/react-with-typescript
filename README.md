@@ -1,73 +1,111 @@
-# React + TypeScript + Vite
+# React with TypeScript
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Repository created to store studies, exercises, and examples developed during the **React with TypeScript** course.
 
-Currently, two official plugins are available:
+The project covers the fundamentals of using TypeScript with React, including component typing, hooks, context management, and best practices for scalable front-end applications.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📚 Course Overview
 
-## React Compiler
+Topics covered:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* Props
+* Type Inference
+* Interfaces
+* Events
+* React Hooks
+* Context API
+* Reducers
+* Custom Hooks
 
-## Expanding the ESLint configuration
+### Tools
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+* Visual Studio Code
+* Vite
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+# 📖 Course Modules
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+### Tools and Environment
+
+* Environment configuration
+* Project setup with Vite
+* TypeScript configuration
+
+### Basic TSX
+
+* TSX fundamentals
+* Component organization
+* JSX + TypeScript integration
+
+### Type Inference, Props, Interfaces and Events
+
+* Type inference
+* Typing props
+* Interfaces
+* Event handling
+* Component best practices
+
+### React Hooks with TypeScript
+
+* `useState`
+* `useEffect`
+* `useRef`
+* Custom Hooks
+* `useContext`
+* `useReducer`
+
+# 🚀 Implemented Features
+
+### Hooks
+
+* State management with `useState`
+* Side effects with `useEffect`
+* DOM manipulation and video controls using `useRef`
+* Shared state using `useContext`
+* Complex state management with `useReducer`
+* Reusable logic using Custom Hooks
+
+### Components
+
+* Typed reusable input component
+* Event handling examples
+* Best practices for props typing
+* Type inference examples
+
+
+
+# 🛠️ Technologies
+
+* React
+* TypeScript
+* Vite
+
+# ▶️ Running the Project
+
+Clone the repository:
+
+```bash
+git clone <repository-url>
 ```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+Access the project folder:
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+```bash
+cd <repository-name>
 ```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
+
+```bash
+npm run dev
+```
+
+# 🎯 Purpose
+
+This repository was created for educational purposes, focusing on practicing React with TypeScript concepts through hands-on exercises and implementations.
