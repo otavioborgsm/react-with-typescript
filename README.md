@@ -2,6 +2,10 @@
 
 Repository created to store studies, exercises, and examples developed during the **React with TypeScript** course.
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
+
 The project covers the fundamentals of using TypeScript with React, including component typing, hooks, context management, and best practices for scalable front-end applications.
 
 ## 📚 Course Overview
@@ -85,7 +89,7 @@ Topics covered:
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/otavioborgsm/react-with-typescript.git
 ```
 
 Access the project folder:
